@@ -1,0 +1,1 @@
+SELECT * FROM urlShortApp_shorturl WHERE expire_date  < date('now');
